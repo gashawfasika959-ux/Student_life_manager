@@ -1,4 +1,4 @@
-'''name:FASIKA GASHAW'''  '''ID :BITS/UGR/0040/26'''
+
 # Student Life Manager
 
 
